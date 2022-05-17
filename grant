@@ -1,0 +1,3 @@
+$nomention
+$onlyPerms[manageroles;This command has been restricted to people with the ``manage roles`` permission.]
+$giveRole[$mentionedRoles[<]]
