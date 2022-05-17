@@ -1,0 +1,9 @@
+$nomention
+$userInfo[
+Username: {username}
+User ID: {ID}
+Is a Bot?: {BOT}
+User Info: {username}#{discriminator}]$image[$userAvatar[$mentioned[1]]]
+$title[Whois $mentioned[1]]
+$allowMention
+$color[#ff0000]
