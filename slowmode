@@ -1,0 +1,9 @@
+$nomention
+$deletecommand
+$slowmode[$channelID;$message]
+$title[Slowmode Set]
+$description[Slowmode has been enabled!
+Current slowmode delay: $message
+$onlyPerms[managechannels;This command has been restricted to people with the ``manage channels`` permission.]
+$onlyForIDs[906383042841563167;Your User ID is not whitelisted for this command, Please make sure you are on the right account!]
+*Slowmode could be active due to alot of reasons, Do not DM any Staff Team members asking about disabling it.*]
