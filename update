@@ -1,7 +1,0 @@
-$onlyForIDs[906383042841563167;Your User ID is not whitelisted for this command, Please make sure you are on the right annount!]
-$nomention
-$deletecommand
-$title[Bot Update]
-$description[The bot has been updated to version **$message**]
-$color[#fd6100]
-$enabled[$getServerVar[enable];:x: This command is disabled!]
