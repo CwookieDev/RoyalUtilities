@@ -1,0 +1,36 @@
+$nomention
+$deletecommand
+$title[Help List]
+$footer[Some commands may be broken or unavailable, join the support server!]
+$description[
+**User Commands**
+*hack *- "Hack" a users Discord account!
+ - Usage: hack (User)
+
+*8ball* - Ask the magic 8 ball a question!
+ - Usage: 8ball (Question)
+
+*gayrate* - Rate the gayness of a user!
+ - Usage: gayrate (User}
+
+**Premium Commands**
+*echo* - Send a message to have echoed!
+ - Usage: echo (Message)
+
+**SSU Commands**
+*ssu* - Host a SSU! 
+- Usage: ssu
+
+*ssd* - Shutdown the server.
+ - Usage: ssd
+
+**Misc Commands**
+*botinfo* - Display the information about the bot!
+ - Usage: botinfo
+
+*help* - Display the help menu.
+ - Usage: help
+
+*support* - Join the support server!
+- Usage: support
+]
