@@ -1,0 +1,8 @@
+$nomention
+$deletecommand 
+$title[8 Ball!]
+$color[32CD32]
+$footer[Requested by $username]
+$description[$username has asked `$message?`
+$randomText[```Yes```;```No```;```Not sure```;```Ask again```;```Ask a friend```;```You already know it.```;```Absolutely not!```;```Absolutely yes```;```Can't tell```;```Yes, Only if Trappy kisses you.```]]
+$$blackListIDs[538082015795347477;Your User has been **blacklisted** from executing this command, Contact support for more details.]
